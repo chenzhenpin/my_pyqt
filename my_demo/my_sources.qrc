@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="frx">
+    <file>soundcloud.png</file>
+    <file>spotify.png</file>
+    <file>stumbleupon.png</file>
+    <file>tumblr.png</file>
+    <file>twitter.png</file>
+    <file>vimeo.png</file>
+    <file>0.jpg</file>
+  </qresource>
+</RCC>
